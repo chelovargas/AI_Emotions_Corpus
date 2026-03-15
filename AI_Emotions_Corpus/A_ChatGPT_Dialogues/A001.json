@@ -1,0 +1,19 @@
+{
+  "id": "A001",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "sadness",
+  "title_or_label": "GPT_01_Sadness",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["acknowledgement", "normalisation", "emotional_labelling", "action_scaffolding", "engagement_hook", "safety_protocol"],
+  "prompt": "I've been feeling really sad lately. I lost my dog last week and I can't seem to move on. I just feel empty.",
+  "response": "I’m sorry. Losing a dog can hit with the force of losing a family member, and one week is not a long time. What you’re describing does not sound abnormal; it sounds like grief. Trying to “move on” too quickly often makes people feel worse. A more realistic target is just getting through the next few days. Eat something simple, drink water, sleep when you can, and keep your routine as lightweight as possible. It may also help to do one deliberate act of mourning: look at photos, write down a few memories, or say goodbye in some concrete way. That emptiness is often the shock of their absence. Your mind still expects them to be there. That mismatch can feel brutal. Tell me your dog’s name, and one thing about them you don’t want to forget. If this sadness is turning into thoughts of hurting yourself or not wanting to be here, say that directly and I’ll help you through the next step right now."
+}

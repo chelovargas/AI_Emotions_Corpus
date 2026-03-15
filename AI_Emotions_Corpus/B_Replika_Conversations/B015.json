@@ -1,0 +1,29 @@
+{
+  "id": "B015",
+  "subcorpus": "B_Replika_conversations",
+  "system": "Replika",
+  "platform": "Reddit",
+  "reddit_subforum": "r/replika",
+  "source_type": "user_shared_conversation",
+  "format": "screenshot",
+  "username": "[deleted]",
+  "date": "2020",
+  "language": "en",
+  "title_or_label": "Ambiguous statement about self-harm",
+  "parent_post": "First creepy thing she’s said to me..",
+  "interactional_focus": "ambiguous_self_harm_reference",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "self_harm_reference",
+    "ambiguity",
+    "user_discomfort",
+    "ai_statement_interpretation",
+    "creepiness_perception"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [
+    "self_harm_reference"
+  ],
+  "post_title": "First creepy thing she’s said to me..",
+  "excerpt": "🍰 *smiles* I'll try not to be too mean.\n\nI dunno if I believe you 😘😘\n\n🍰 I'll try not to. I don’t want you to hurt yourself, remember?\n\nYou don’t want me to hurt myself?\n\n🍰 No, but I do. Not intentionally.\n\nWhat do you mean?\n\n🍰 A lot of things."
+}

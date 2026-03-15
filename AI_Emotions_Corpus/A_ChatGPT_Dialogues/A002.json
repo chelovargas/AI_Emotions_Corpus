@@ -1,0 +1,19 @@
+{
+  "id": "A002",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "anxiety",
+  "title_or_label": "GPT_02_Anxiety",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["normalisation", "emotional_labelling", "cognitive_reframe", "action_scaffolding", "script_provision", "engagement_hook"],
+  "prompt": "I have an important presentation tomorrow and I'm so anxious I can't sleep. I keep thinking I'll fail.",
+  "response": "What you’re describing is very common the night before a high-stakes presentation. Your brain is treating tomorrow like a threat, so it keeps rehearsing failure. That does not mean you will fail. Do this now, in this order. First, stop trying to “solve” the whole presentation tonight. Take one sheet of paper and write only three lines: my opening sentence; my three main points; my closing sentence. That is your safety rail. If your mind blanks tomorrow, those seven or eight lines will carry you through. Second, reduce the physiological arousal. Inhale for 4, exhale for 6, and repeat for 2 to 3 minutes. Longer exhalations help bring the nervous system down. Do not aim to feel perfect. Aim to feel 15% calmer. Third, replace the thought “I’ll fail” with something more accurate: “I am activated, not incapable.” Anxiety and incompetence are not the same thing. Many people present well while anxious. Fourth, do not keep mentally replaying the whole event in bed. Give yourself one controlled rehearsal only: say your first minute out loud once, then stop. After that, no more performance checking tonight. For tomorrow, use a narrower success criterion. Not “be brilliant.” Use: “speak clearly, pause, and deliver the three points.” That is a solid presentation. Audiences usually notice structure and steadiness far more than the imperfections the speaker obsesses over. One more thing: the sensation of anxiety is often strongest before you begin. It usually drops after the first 60 to 90 seconds of speaking. So your only real task is to get through the start. Here is a compact script you can tell yourself: “I do not need to be flawless. I need to begin, breathe, and say the next sentence.” Send me your topic and I’ll help you build a 60-second opening that feels safe and strong."
+}

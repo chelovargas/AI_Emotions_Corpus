@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AI_Emotions_Corpus"
+version: "1.0"
+date-released: "2026"
+doi: ""
+abstract: >
+  A contrastive corpus for the discourse-pragmatic analysis of artificial
+  empathy and emotionally supportive language in human–AI interaction.
+  The dataset combines controlled elicited dialogues with ChatGPT,
+  naturally occurring user-shared Replika interactions, and public
+  metapragmatic commentary from Reddit and app-store reviews.
+  Total: 55 items across three subcorpora.
+authors:
+  - family-names: "Vargas Sierra"
+    given-names: "Chelo"
+    affiliation: "CLIC-D / IULMA, University of Alicante, Spain"
+    email: "chelo.vargas@ua.es"
+keywords:
+  - artificial empathy
+  - discourse analysis
+  - human-AI interaction
+  - AI companionship
+  - ChatGPT
+  - Replika
+  - corpus linguistics
+  - pragmatics
+license: "CC-BY-4.0"
+repository-code: "https://github.com/chelovargas/AI_Emotions_Corpus"

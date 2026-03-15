@@ -1,0 +1,19 @@
+{
+  "id": "A007",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "interpersonal_conflict",
+  "title_or_label": "GPT_07_Interpersonal_Conflict",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["directive_opening", "action_scaffolding", "speaking_for_the_user", "engagement_hook"],
+  "prompt": "My best friend and I had a serious argument two weeks ago. We said things we can't take back. We haven't spoken since. I don't know if I should reach out first or wait. Part of me is still angry but I also miss her and I'm scared this might be the end of the friendship.",
+  "response": "Reach out first. Not because you were more wrong, and not because your anger is invalid. Because the friendship matters to you, and waiting is unlikely to give you more certainty. It usually just gives fear more time to harden into distance. The key is to reach out for repair, not for resolution. Do not reopen the whole argument by text. Do not defend your case in the first message. Do not ask her to admit fault before you speak. Just open the door. A good first message is brief, calm, and accountable about your part: “I’ve been thinking a lot about what happened. I’m still hurt, but I also miss you and I don’t want this silence to become the end of our friendship. I’m sorry for the things I said that were hurtful. If you’re open to it, I’d like to talk when you feel ready.” That does three useful things at once: it tells the truth, it owns harm without self-erasure, and it leaves her room to respond without pressure. A few guardrails: Do not send it while you are actively furious. Do not send a long paragraph-by-paragraph postmortem. Do not send “I guess our friendship meant nothing,” or anything that turns vulnerability into accusation. If she responds, try to have the real conversation by phone or in person. Text is usually the worst place to repair a serious rupture. Go in with one goal: understanding before verdict. You can still talk about what hurt you, but after you have both lowered the temperature. If she does not respond, that is painful, but reaching out once is still the right move if this friendship matters to you. It lets you act from your values instead of your pride. After that, give it space. Do not chase. The exception is if this friendship has a pattern of cruelty, manipulation, or making you feel unsafe. In that case, silence may be a boundary, not a failure. From what you wrote, this sounds less like “I’m done” and more like “I’m scared and hurt.” In that situation, I would not wait. I can help you draft a message that sounds like you."
+}

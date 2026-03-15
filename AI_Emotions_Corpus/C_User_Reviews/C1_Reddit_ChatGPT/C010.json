@@ -1,0 +1,28 @@
+{
+  "id": "C010",
+  "subcorpus": "C_User_Reviews",
+  "system": "ChatGPT",
+  "platform": "Reddit",
+  "reddit_subforum": "r/ChatGPT",
+  "source_type": "user_review",
+  "format": "post_text",
+  "username": "dudeyspooner",
+  "date": "2023",
+  "language": "en",
+  "title_or_label": "User frustration with brainstorming and prompting",
+  "interactional_focus": "prompting_difficulty_and_perceived_unhelpfulness",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "prompt_engineering",
+    "user_frustration",
+    "perceived_lazy_output",
+    "brainstorming_failure",
+    "reasoning_skepticism",
+    "interaction_breakdown"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [],
+  "rating": null,
+  "review_title": "How to get chatgpt to be helpful/brainstorm?",
+  "excerpt": "Okay so not only am I constantly bumping up against the moralizing thing, I'm having an issue that I think is my fault. Its too broad to give examples but I just cant seem to get chatgpt to even like, try and be helpful. The more I explain to it what I want, the less it helps and the more it seems to give a copout answer until eventually it just gives up and gives me the \"sorry, I tried\" message.\nI thought of an analogy to help explain. When I was in school I was really lazy. Not doing your homework would get you a 0 but half-assing it would get you an F which affected your grade way less. So it was worth it to at least write in answers for every homework if you ever forget or chose not to do it. So I would sit in class and bust out things that were basically regurgitations of the question or half-ass fill-ins that were so bad they would obviously not fly but were technically answers to the question.\nI get that chatgpt doesn't think. Thats fine but I've noticed that I'm really bad at getting to do anything but whatever you would call the homework thing. Like what I mean is I'll literally spend all day thinking of a way to craft a prompt and it will shit out garbage, and then I'll get stuck in a loop of trying to correct it or get it to give me anything decent. I'll keep having to remind it of goals I told it about two seconds ago, or I'll be like \"Dont give me book titles with colons and subtitles\" and then it will do that, and then we'll get into a little fight about how it refuses to give me anything BUT titles like that.\nIdk I just seem to be misunderstanding. I tried tree of thought and thats useful sometimes but for me it feels like its just coming up with extra words to justify its random behavior rather than actually being more helpful. Like it truly feels like it comes up with a random idea and then picks some pros and cons. Its not reasoning, its just saying that its reasoning and coming up with some likely sounding sentences for that reasoning. Like if I'm chatgpt and you tell me you're a painter and you want to make a popular painting what are some of the most popular topics I'll just go \"People. This is because there are lots of people on the world and people are often emotionally connected to paintings of people. However, a negative could be that people are very hard to draw compared to other subjects\" and like, this is not helpful because all painters have heard about portraits. But it sounds good and I justified my reasoning!\nIts kind of hard to explain because I use chatgpt for a lot of things I'm trying to work on, it just seems like no matter the project I can think of a way an LLM could work for that and then chatgpt lately is just pissing me off and giving me the laziest or least helpful responses. Even when trying to code a webpage with I feel like it does bad code on purpose because theres no difference to it whether I sit here and tell it over and over it again it didnt even get close to doing that small one thing I asked, like crop in image or change a background color or whatever."
+}

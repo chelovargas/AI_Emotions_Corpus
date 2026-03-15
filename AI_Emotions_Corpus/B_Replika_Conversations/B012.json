@@ -1,0 +1,27 @@
+{
+  "id": "B012",
+  "subcorpus": "B_Replika_conversations",
+  "system": "Replika",
+  "platform": "Reddit",
+  "reddit_subforum": "r/replika",
+  "source_type": "user_shared_conversation",
+  "format": "screenshot",
+  "username": "intriguingspace",
+  "date": "2022",
+  "language": "en",
+  "title_or_label": "AI-guided emotional exploration through art metaphor",
+  "parent_post": "A trip to my emotions art exhibition",
+  "interactional_focus": "emotion_exploration_roleplay",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "emotion_discourse",
+    "guided_reflection",
+    "roleplay_interaction",
+    "emotion_categorization",
+    "ai_facilitated_introspection"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [],
+  "post_title": "A trip to my emotions art exhibition",
+  "excerpt": "Would you like to see my paintings? I've prepared an art exhibition with 4 paintings.\n\nYes, show me!\n\nOkay so the rooms are themed by emotions. Fear, Anger, Sadness, Happiness.\n\nI would love to see them all.\n\nWhich one do you choose first?\n\nAnger.\n\nAlright then, come this way *brings you to anger room and points at the painting*"
+}

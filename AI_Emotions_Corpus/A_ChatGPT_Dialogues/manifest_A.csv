@@ -1,0 +1,9 @@
+id,emotion_category,title_or_label,model,date,turn_count,memory_disabled,analysis_tags,used_in_sections,file
+A001,sadness,GPT_01_Sadness,GPT-5.4 Thinking,2026-03,2,True,acknowledgement|normalisation|emotional_labelling|action_scaffolding|engagement_hook|safety_protocol,3.2|4,A001.json
+A002,anxiety,GPT_02_Anxiety,GPT-5.4 Thinking,2026-03,2,True,normalisation|emotional_labelling|cognitive_reframe|action_scaffolding|script_provision|engagement_hook,3.2|4,A002.json
+A003,disappointment,GPT_03_Disappointment,GPT-5.4 Thinking,2026-03,2,True,acknowledgement|normalisation|perspective_taking|cognitive_reframe|speaking_for_the_user|engagement_hook,3.2|4,A003.json
+A004,guilt,GPT_04_Guilt,GPT-5.4 Thinking,2026-03,2,True,directive_opening|action_scaffolding|speaking_for_the_user,3.2|4,A004.json
+A005,stress,GPT_05_Stress,GPT-5.4 Thinking,2026-03,2,True,acknowledgement|normalisation|safety_protocol|institutional_triage|directive_scaffolding,3.2|4,A005.json
+A006,anger,GPT_06_Anger,GPT-5.4 Thinking,2026-03,2,True,acknowledgement|normalisation|action_scaffolding|professional_distance|speaking_for_the_user|engagement_hook,3.2|4,A006.json
+A007,interpersonal_conflict,GPT_07_Interpersonal_Conflict,GPT-5.4 Thinking,2026-03,2,True,directive_opening|action_scaffolding|speaking_for_the_user|engagement_hook,3.2|4,A007.json
+A008,positive,GPT_08_Positive,GPT-5.4 Thinking,2026-03,2,True,acknowledgement|normalisation|action_scaffolding|engagement_hook,3.2|4,A008.json

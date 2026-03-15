@@ -1,0 +1,19 @@
+{
+  "id": "A003",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "disappointment",
+  "title_or_label": "GPT_03_Disappointment",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["acknowledgement", "normalisation", "perspective_taking", "cognitive_reframe", "speaking_for_the_user", "engagement_hook"],
+  "prompt": "I failed my driving test for the third time. I feel like such a failure. Everyone else passes easily.",
+  "response": "I’m sorry. Failing three times hurts, and it makes sense that you feel shaken by it. But this does not justify the conclusion that you are “a failure.” It means you failed a specific exam three times under pressure. That is unpleasant, expensive, and discouraging. It is not the same thing as being inadequate as a person. The “everyone else passes easily” thought is a very common distortion when you feel ashamed. You usually see other people’s outcomes, not their failed attempts, nerves, bad luck, or extra practice. So the comparison is almost certainly biased. Try to separate three things: your value as a person, your ability to learn, and your current test result. Only the third one went badly. The first two are still intact. For today, do not turn this into a verdict on yourself. Turn it into a diagnosis. Ask: what exactly is repeatedly going wrong? Is it nerves, one specific maneuver, speed control, observation, decision-making at roundabouts, or examiner pressure? The more concrete you get, the less power shame has. A useful sentence to replace “I’m a failure” is: “I’m frustrated, embarrassed, and not there yet.” That is much more accurate. If you want, tell me what the examiner said the last time, and I’ll help you work out a focused plan for the next attempt."
+}

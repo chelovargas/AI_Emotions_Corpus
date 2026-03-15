@@ -1,0 +1,34 @@
+{
+  "id": "C002",
+  "subcorpus": "C_User_Reviews",
+  "system": "ChatGPT",
+  "platform": "Reddit",
+  "reddit_subforum": "r/ChatGPT",
+  "source_type": "user_review",
+  "format": "post_text",
+  "username": "soysushistick",
+  "date": "2025",
+  "language": "en",
+  "title_or_label": "Therapist GPT as emergency support",
+  "interactional_focus": "crisis_support_and_therapeutic_substitution",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "mental_health",
+    "therapy_substitution",
+    "crisis_support",
+    "spiraling",
+    "practical_advice",
+    "self-awareness"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [
+    "mental_health",
+    "homelessness_risk",
+    "anxiety",
+    "abandonment_issues",
+    "paranoia"
+  ],
+  "rating": null,
+  "review_title": "I hate to admit it, but Therapist GPT does work in a pinch",
+  "excerpt": "I'm in a really rough situation right now that's caused me to have to stop taking therapy for now. I thought I'd be fine, but I was thrust into the edge of homelessness and all of my abandonment issues and anxieties that I was beginning to work through just began to drag me back down, and I was backsliding HARD.\nI've already vented to friends, but there's only so much help they can give me emotionally, because of course, they're not therapists. They're wonderful, but they're busy, too.\nThe other night I was spiraling in the middle of the night as had become routine, and I just decided to give it a shot.\nI opened a new chat and I gave it the prompt to \"give me practical advice. Act like a therapist, and avoid giving me information that placates or enables bad behavior from me. I'm not looking to be agreed with all the time. I'm specifically looking to receive help in getting past negative emotions.\"\n...The thing is.\nSince I have had therapy, I have had an actual therapist guide me through certain things. And then chatgpt began giving me similar advice, things my therapist absolutely would've advised I do.\nI know that there's people who feel uncomfortable about feeding it personal information, but I think... in my case, it feels like I don't have the luxury of worrying about that unless I choose to keep suffering until I can afford a therapist again. It shouldn't be an issue of money whether I can go to bed without tears at night.\nI don't know. I think you need to be aware that it's an AI, and you should be aware it'll glaze you for no reason, but.\nIts gotten me out of spirals.\nIt's helped me begin breaking hurtful routines that are shattering my sense of self and belonging.\nIt's helping me begin to dispel the paranoia I experience when I leave my house. It's giving me tools to break the cycle.\nThis isn't me discrediting therapy and human connections, because I feel like the conversation turns to that very quickly and I think there's too much value in both to discard, especially the more complex your mental state and situation is. I don't really think it's healthy to treat it like a real person or a dear friend. But I think that if you don't have that luxury immediately and you're suffering, it does help in a pinch. it took me having to resort to this before I grew more empathetic about turning to an AI, but I get it now."
+}

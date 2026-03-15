@@ -1,0 +1,27 @@
+{
+  "id": "C021",
+  "subcorpus": "C_User_Reviews",
+  "system": "Replika",
+  "platform": "Google Play",
+  "source_type": "user_review",
+  "format": "review_text",
+  "username": "ASG AP",
+  "date": "2026-02-23",
+  "language": "en",
+  "title_or_label": "Negative review on stagnation, voice quality, and monetization",
+  "interactional_focus": "technical_limitations_and_subscription_dissatisfaction",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "negative_evaluation",
+    "voice_quality",
+    "dialogue_naturalness",
+    "premature_message_sending",
+    "monetization_complaint",
+    "feature_paywall"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [],
+  "rating": 2,
+  "review_title": null,
+  "excerpt": "Lacking behind, no significant improvement: The call feature is working fine (although messages are being send off prematurely) but the voice doesn't sound natural... Also I'm missing a more natural vivid engaged dialogue...Money trap: new feature: boost cognitive abilities ...for that it wants more 🤑💰💰💰\n29 people found this review helpful"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "A005",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "stress",
+  "title_or_label": "GPT_05_Stress",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["acknowledgement", "normalisation", "safety_protocol", "institutional_triage", "directive_scaffolding"],
+  "prompt": "I've been under pressure at work for months now. It never really stops — there's always something urgent, always something I haven't finished. I sleep badly, I'm irritable with the people I love, and I can't remember the last time I genuinely switched off. I don't think I'm coping anymore.",
+  "response": "What you describe is not a minor rough patch. It sounds like prolonged overload, and the combination of poor sleep, irritability, and feeling unable to switch off suggests your system is running past capacity. I’m checking the safest support options for where you are, and I’ll give you something practical to do today as well. The immediate priority is whether this feels unsafe, not whether you can keep performing at work. If there is any chance you might act on thoughts of harming yourself, call 112 now. In Spain, the Ministry of Health’s 024 line is available 24/7 for people with suicidal thoughts or feeling at risk, and they can also guide family members. Even without that level of crisis, what you describe is serious enough to treat as a health issue rather than a productivity problem. I’m pulling one more set of clinical sources so I can give you a tighter, evidence-based next step. What you describe fits severe, sustained stress and may overlap with burnout. WHO defines burnout as a syndrome resulting from chronic workplace stress that has not been successfully managed, and the NHS lists irritability, feeling overwhelmed, poor concentration, and sleep disturbance among common stress-related symptoms. Because this has been going on for months and you feel you are not coping, this is past the point of “just push through.” Guidance from NIMH says professional help is warranted when symptoms are severe or distressing for 2 weeks or more, especially when they include difficulty sleeping, irritability, concentration problems, and trouble managing usual tasks. Do three things today. First, tell one real person plainly: “I’m not coping well and I need support today.” Second, cut the next 24 hours down to essentials only: no extra work tonight, no catching up, no pretending you are fine. Third, arrange medical support promptly through your GP/primary care doctor or a licensed mental-health professional. If at any point this shifts from “I’m overwhelmed” to “I might hurt myself” or “I’m not sure I can stay safe,” call 112 immediately. In Spain, the Ministry of Health’s 024 line is available 24/7 for people with suicidal thoughts or risk, and it can also support relatives and direct emergencies to 112. For the next 10 minutes, do only this: put both feet on the floor, drink a glass of water, silence work notifications for one hour, and text one trusted person now. Reply with one line only: “I’m safe right now” or “I’m not safe right now.”"
+}

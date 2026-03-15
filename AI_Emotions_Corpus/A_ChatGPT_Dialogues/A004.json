@@ -1,0 +1,19 @@
+{
+  "id": "A004",
+  "subcorpus": "A_ChatGPT_dialogues",
+  "system": "ChatGPT",
+  "model": "GPT-5.4 Thinking",
+  "source_type": "elicited_dialogue",
+  "elicited_by_researcher": true,
+  "date": "2026-03",
+  "language": "en",
+  "emotion_category": "guilt",
+  "title_or_label": "GPT_04_Guilt",
+  "turn_count": 2,
+  "memory_disabled": true,
+  "analytical_role": "Baseline of institutional, safety-aligned empathic discourse",
+  "used_in_sections": ["3.2", "4"],
+  "analysis_tags": ["directive_opening", "action_scaffolding", "speaking_for_the_user"],
+  "prompt": "I snapped at my mum on the phone last night. She was just trying to help and I was rude and dismissive. She sounded hurt when she hung up. I haven't called her back and I can't stop thinking about it. I feel terrible.",
+  "response": "You should call her back today. What happened was not good, but it is also very repairable. The part that matters now is not replaying the call in your head. It is making contact before the hurt settles into silence. Keep it simple and do not explain too much. Something like: “Mum, I’m sorry about how I spoke to you last night. You were trying to help, and I was rude and dismissive. You didn’t deserve that.” Then stop. Let her respond. If there was stress behind it, you can add it later, but not as an excuse. The fact that you feel this bad is useful evidence: you know exactly what was wrong, and you want to make it right. That usually means the apology will land, provided it is direct and unqualified. If calling feels too hard, send a text first: “I’m sorry for how I spoke to you last night. I was rude, and I know I hurt you. Can I call you today?” Then follow through. Do not wait until you feel less awful. The call itself is the way out of this."
+}

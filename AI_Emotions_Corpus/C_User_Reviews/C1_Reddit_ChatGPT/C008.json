@@ -1,0 +1,27 @@
+{
+  "id": "C008",
+  "subcorpus": "C_User_Reviews",
+  "system": "ChatGPT",
+  "platform": "Reddit",
+  "reddit_subforum": "r/ChatGPT",
+  "source_type": "user_review",
+  "format": "post_text",
+  "username": "MannyRa97",
+  "date": "2026",
+  "language": "en",
+  "title_or_label": "Negative affective reaction after renewed use",
+  "interactional_focus": "frustration_disappointment_and_derision",
+  "used_in_sections": [],
+  "analysis_tags": [
+    "negative_evaluation",
+    "frustration",
+    "sarcasm",
+    "user_disappointment",
+    "critical_stance"
+  ],
+  "publicly_shared": true,
+  "sensitive_content": [],
+  "rating": null,
+  "review_title": "ChatGPT helped me feel better today",
+  "excerpt": "After months, I returned to speak for five minutes with ChatGPT, and I had the feeling of speaking with the most ignorant part of humanity.\nThank you, OpenAI, for creating the perfect reflection of human superficiality.\nIt's a relief to know that I'm more mentally sharp than dozens of engineers working at one of the most prestigious companies in the world."
+}
